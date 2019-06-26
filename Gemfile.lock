@@ -16,6 +16,8 @@ GEM
     commonmarker (0.17.13)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.1.5)
+    devlopr (0.2.6)
+      jekyll (~> 3.8)
     dnsruby (1.61.2)
       addressable (~> 2.5)
     em-websocket (0.5.1)
@@ -242,8 +244,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  devlopr
   github-pages
-  minima (~> 2.0)
 
 BUNDLED WITH
    1.17.3
