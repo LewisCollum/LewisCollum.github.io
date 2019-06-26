@@ -37,4 +37,5 @@ flickr_username: yourusername
 
 
 # important to use devlopr theme 
-theme: devlopr
+#theme: devlopr
+remote_theme: sujaykundu777/devlopr-jekyll
